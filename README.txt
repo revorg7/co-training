@@ -1,6 +1,6 @@
 Implements the Co-training Paper ( A Blum, T Mitchell, COLT-98 ) in a single ipython-notebook file.
 
-Uses original dataset:
+Uses the original dataset:
 http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-51/www/co-training/data/
 
 The code is inspired from the following sources:
