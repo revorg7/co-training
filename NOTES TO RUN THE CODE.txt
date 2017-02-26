@@ -1,0 +1,11 @@
+The code is based on ipython notebook format.
+python-dependecies(libraries): sklearn,bs4(beautiful-soup),textblob,nltk
+To install any of the library run either of the following command:
+1. pip install <library-name> (for ex. pip install bs4)
+2. apt-get install python-<library-name> (for ex. apt-get install nltk)
+
+Intermediate data-structures (needed to convert raw-data into Bag-of-Words(BOG) format are saved as 'pickle' objects)
+They can be readily loaded to avoid preprocessing of raw HTML files
+
+The dataset is explained on this page:
+http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-51/www/co-training/data/
